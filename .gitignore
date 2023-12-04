@@ -161,3 +161,6 @@ cython_debug/
 
 # data
 *.csv
+
+# ide stuff
+.vscode
