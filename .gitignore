@@ -166,3 +166,8 @@ cython_debug/
 # ide stuff
 .vscode
 .databricks
+
+# misc
+*/cache/*
+logs
+mlruns
