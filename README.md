@@ -14,3 +14,5 @@ The examples in this repository are intended to be read sequentially. Later exam
 [1. Fine-Tune T5-Small on Single GPU](./1_t5_small_single_gpu/1.%20T5-Small%20on%20Single%20GPU.ipynb)
 
 [2. Fine-Tune GPT-2 on a Single GPU](./2_gpt2_single_gpu/2.%20GPT2%20on%20a%20single%20GPU.ipynb)
+
+[(WIP) 3. Instruction tuning TinyLlama](./3_tinyllama_instruction_tune/3.%20instruction%20tuning%20tinyllama%20on%20a%20single%20GPU.ipynb)
