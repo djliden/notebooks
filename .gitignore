@@ -174,3 +174,5 @@ mlruns
 results/
 cache/
 logs/
+
+notebooks/_build
