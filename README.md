@@ -1,6 +1,6 @@
 # Fine-Tuning LLMs
 
-*View these notebooks in a more readable format at [danliden.com/fine-tuning](https://danliden.com/fine-tuning)
+*View these notebooks in a more readable format at [danliden.com/fine-tuning](https://danliden.com/fine-tuning).*
 
 This series of notebooks is intended to show how to fine-tune language models, starting from smaller models on single-node single-GPU setups and gradually scaling up to multi-GPU and multi-node configurations.
 
