@@ -4,3 +4,4 @@ accelerate
 psutil
 pynvml
 bitsandbytes
+mlflow
