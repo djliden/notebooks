@@ -11,3 +11,10 @@ This will, hopefully, serve as a practical and conceptual bridge from single-nod
 ## How to use this repository
 
 The examples in this repository are intended to be read sequentially. Later examples build on earlier examples and gradually add scale and complexity.
+
+## Contributing
+
+Contributions are welcome, and there are a few different ways to get involved.
+- If you see an error or bug, please [open an issue](https://github.com/djliden/fine-tuning/issues/new) or open a PR.
+- If you have a question about this repository, or you want to request a specific example, please [open an issue](https://github.com/djliden/fine-tuning/issues/new).
+- If you're interested in contributing an example, I encourage you to get in touch. You can [open an issue](https://github.com/djliden/fine-tuning/issues/new) or reach out by email or social media.
