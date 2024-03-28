@@ -10,6 +10,7 @@ parts:
   - file: 2_gpt2_single_gpu/2_GPT2_on_a_single_GPU.ipynb
   - file: 3_tinyllama_instruction_tune/3_instruction_tuning_tinyllama_on_a_single_GPU.ipynb
   - file: 4_olmo_1b_instruction_tune/4_olmo_instruction_tune.ipynb
-- caption: Other helpful topics
+- caption: Other topics of interest
   chapters:
   - file: 3_tinyllama_instruction_tune/data_preprocessing.ipynb
+  - file: 5_gemma_2b_axolotl/gemma_2b_axolotl.ipynb
