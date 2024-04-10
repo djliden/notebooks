@@ -1,0 +1,7 @@
+transformers==4.37.2
+accelerate
+peft
+ai2-olmo
+bitsandbytes
+mlflow
+pynvml
