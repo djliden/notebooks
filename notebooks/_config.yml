@@ -6,7 +6,7 @@ execute:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/djliden/fine-tuning
+  url: https://github.com/djliden/notebooks
   path_to_book: ./notebooks/  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 

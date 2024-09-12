@@ -4,7 +4,7 @@
 format: jb-book
 root: index
 parts:
-- caption: AI Training
+- caption: "AI Training"
   chapters:
   - file: ai_training/intro
     sections:
@@ -16,9 +16,9 @@ parts:
   - file: ai_training/appendix
     sections:
     - file: ai_training/fine_tuning/3_tinyllama_instruction_tune/data_preprocessing
-- caption: FastHTML
+- caption: "Web Development"
   chapters:
-  - file: web_dev/FastHTML Tutorial
+  - file: web_dev/intro
     sections:
     - file: web_dev/fasthtml/1_introduction
     - file: web_dev/fasthtml/2_styling
