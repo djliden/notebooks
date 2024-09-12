@@ -1,6 +1,6 @@
-title: LLM Fine-Tuning
-author: Dan Liden
-logo: logo_draft.png
+title: Notebooks
+author: Daniel Liden
+logo: logo.jpg
 execute:
   execute_notebooks: 'off'
 
@@ -15,7 +15,7 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
-  home_page_in_navbar: false
+  home_page_in_navbar: true
 sphinx:
   config:
     html_show_copyright: false

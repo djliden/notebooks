@@ -4,13 +4,15 @@
 format: jb-book
 root: index
 parts:
-- caption: Smaller Models (Single GPU)
+- caption: AI Training
   chapters:
-  - file: 1_t5_small_single_gpu/1_T5-Small_on_Single_GPU.ipynb
-  - file: 2_gpt2_single_gpu/2_GPT2_on_a_single_GPU.ipynb
-  - file: 3_tinyllama_instruction_tune/3_instruction_tuning_tinyllama_on_a_single_GPU.ipynb
-  - file: 4_olmo_1b_instruction_tune/4_olmo_instruction_tune.ipynb
-- caption: Other topics of interest
-  chapters:
-  - file: 3_tinyllama_instruction_tune/data_preprocessing.ipynb
-  - file: 5_gemma_2b_axolotl/gemma_2b_axolotl.ipynb
+  - file: ai_training/intro
+    sections:
+    - file: ai_training/fine_tuning/1_t5_small_single_gpu/1_T5-Small_on_Single_GPU
+    - file: ai_training/fine_tuning/2_gpt2_single_gpu/2_GPT2_on_a_single_GPU
+    - file: ai_training/fine_tuning/3_tinyllama_instruction_tune/3_instruction_tuning_tinyllama_on_a_single_GPU.ipynb
+    - file: ai_training/fine_tuning/4_olmo_1b_instruction_tune/4_olmo_instruction_tune
+    - file: ai_training/fine_tuning/5_gemma_2b_axolotl/gemma_2b_axolotl
+  - file: ai_training/appendix
+    sections:
+    - file: ai_training/fine_tuning/3_tinyllama_instruction_tune/data_preprocessing
