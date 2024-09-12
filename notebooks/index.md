@@ -1,4 +1,7 @@
-# Jupyter Notebook Examples
+# Guides and Examples
+
+```{attention} This site was previously dedicated solely to fine-tuning LLMs. I have since expanded the scope to include other topics. The process of converting the site is still in process, so you might encounter broken links or other issues. Let me know if you do! You can submit an issue with the GitHub button on the top right.
+```
 
 This repository contains a collection of Jupyter notebooks demonstrating various concepts and techniques across different fields. Currently, it includes a series on fine-tuning language models, but it will expand to cover other topics in the future.
 
