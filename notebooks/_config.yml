@@ -1,6 +1,6 @@
 title: LLM Fine-Tuning
 author: Dan Liden
-logo: logo_draft.png
+#logo: logo.png
 execute:
   execute_notebooks: 'off'
 
