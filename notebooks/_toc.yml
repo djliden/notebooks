@@ -16,3 +16,11 @@ parts:
   - file: ai_training/appendix
     sections:
     - file: ai_training/fine_tuning/3_tinyllama_instruction_tune/data_preprocessing
+- caption: FastHTML
+  chapters:
+  - file: web_dev/FastHTML Tutorial
+    sections:
+    - file: web_dev/fasthtml/1_introduction
+    - file: web_dev/fasthtml/2_styling
+    - file: web_dev/fasthtml/3_htmx
+    - file: web_dev/fasthtml/4_databases
