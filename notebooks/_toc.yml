@@ -24,3 +24,4 @@ parts:
     - file: web_dev/fasthtml/2_styling
     - file: web_dev/fasthtml/3_htmx
     - file: web_dev/fasthtml/4_databases
+    - file: web_dev/fasthtml/5_google_oauth_1
